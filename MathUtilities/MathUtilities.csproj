@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>NI_InvSqrt</RootNamespace>
+        <Version>0.0.1</Version>
+        <Title>Math Utlitilies generate with ChatGPT</Title>
+        <Authors>ChatGPT</Authors>
+        <Description>Just a test of better understanding for the inverse square root used in Quake Engine and advanced by ChatGPT</Description>
+    </PropertyGroup>
+
+</Project>
